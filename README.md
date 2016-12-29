@@ -1,5 +1,6 @@
 # MSCELEB1M-GenImage
 
+A simple python script to decode images from base64 codes for MS-Celeb-1M data.
 
 ## Usage:
 
