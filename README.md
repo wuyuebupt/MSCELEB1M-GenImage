@@ -1,7 +1,7 @@
 # MSCELEB1M-GenImage
 
 
-Usage:
+## Usage:
 
 python msceleb1m_genImage.py MsCelebV1-Faces-Aligned-DevSet1.tsv
 
