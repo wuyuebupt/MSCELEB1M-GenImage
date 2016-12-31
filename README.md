@@ -4,7 +4,9 @@ A simple python script to decode images from base64 codes for MS-Celeb-1M data.
 
 ## Usage:
 
+'''bash
 python msceleb1m_genImage.py MsCelebV1-Faces-Aligned-DevSet1.tsv
+'''
 
 This command will generated images for each celebrity in the folder "images".
 
